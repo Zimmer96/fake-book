@@ -1,0 +1,18 @@
+.cart-container{
+    background-color: rgb(227, 250, 252);
+    margin-bottom:50px;
+    margin: 20px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px darkgray;
+    padding: 10px;
+    font-size: 17px;
+}
+.friend-request{
+    margin-left: 20px;
+    margin-right: 5px;
+    border-right: 2px solid lightgray;
+}
+.cart-name{
+    color: rgb(4, 90, 119);
+    font-size: 25px;
+}

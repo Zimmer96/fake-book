@@ -1,0 +1,54 @@
+.home{
+    display: flex;
+    background-color: rgb(222, 232, 241);
+    margin-bottom: 20px;
+    padding: 5px;
+    border-radius: 15px;
+    margin-right: 5px;
+    box-shadow: 5px 5px 10px lightgray;
+    height: 230px;
+}
+.image{
+    width: 70px;
+    height: 70px;
+    border-radius: 1000px;
+    margin-top:70px;
+    margin-right: 20px;
+    margin-left:20px;
+}
+.description{
+    margin-top: 10px;
+    margin-left: 10px;
+    display: flex;
+    margin-bottom: 60px;
+}
+.name-des{
+    margin-right: 400px;
+}
+
+.name{
+    color: rgb(63, 63, 63);
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 30px;
+    margin-left: 250px;
+}
+.email{
+    font-size:17px;
+    font-weight:200;
+    margin-bottom: 30px;
+}
+.phone{
+    font-size:17px;
+    font-weight:600;
+    
+}
+.username{
+    font-size: 17px;
+    margin-bottom: 20px;
+}
+.website{
+    font-size: 17px;
+    color: darkgrey;
+    font-weight: 400;
+}
